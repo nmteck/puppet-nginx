@@ -42,6 +42,7 @@ class Nginx < Formula
 
     args = ["--prefix=#{prefix}",
             "--with-http_ssl_module",
+            "--with-http_mp4_module",
             "--with-pcre",
             "--with-ipv6",
             "--with-cc-opt=#{cc_opt}",
