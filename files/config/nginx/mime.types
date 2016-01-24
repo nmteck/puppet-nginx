@@ -62,6 +62,7 @@ types {
     audio/mpeg                            mp3;
     audio/x-realaudio                     ra;
 
+    video/mp4                             mp4;
     video/3gpp                            3gpp 3gp;
     video/mpeg                            mpeg mpg;
     video/quicktime                       mov;
